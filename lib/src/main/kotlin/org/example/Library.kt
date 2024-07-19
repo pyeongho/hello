@@ -7,4 +7,8 @@ class Library {
     fun someLibraryMethod(): Boolean {
         return true
     }
+
+    fun getJin(): String {
+        return "화이팅 진~~~"
+    }
 }
