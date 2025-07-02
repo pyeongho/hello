@@ -8,7 +8,7 @@ subprojects {
     apply(plugin = "maven-publish")
 
     group = "com.pyeongho.hello"
-    version = "1.0.0"
+    version = "1.0.4"
 
     configure<PublishingExtension> {
         repositories {
